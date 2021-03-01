@@ -1,4 +1,9 @@
-<?php  
+<?php
+
+/**
+ * Created by Arun Kumar on 01/03/21.
+ * Copyright (c) 2021  Arun Android
+ */
  defined('BASEPATH') OR exit('No direct script access allowed');  
  class Main extends CI_Controller {  
 

@@ -1,4 +1,9 @@
 <?php
+
+/**
+ * Created by Arun Kumar on 14/8/20.
+ * Copyright (c) 2020  Wingshield Technologies
+ */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Welcome extends CI_Controller {
